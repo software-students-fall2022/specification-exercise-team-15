@@ -3,6 +3,8 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
+## [Ideation](https://docs.google.com/document/d/1Yn09Uu0B0mmxNh73a2RAwO3KOEOL9FLK4nViyHqaSU4/edit)
+
 ## Team members
 
 - Jonason Wu (jw5911): [Github Profile](https://github.com/JonasonWu)
