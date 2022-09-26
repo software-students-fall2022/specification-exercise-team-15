@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Jonason Wu (jw5911) [Github Profile](https://github.com/JonasonWu)
+- Jonason Wu (jw5911): [Github Profile](https://github.com/JonasonWu)
 
 ## Stakeholders
 
