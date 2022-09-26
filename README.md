@@ -3,9 +3,16 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
+## [Ideation](https://docs.google.com/document/d/1Yn09Uu0B0mmxNh73a2RAwO3KOEOL9FLK4nViyHqaSU4/edit) Main Points
+
+* We want to create a mobile app that can manage minigames for users.
+* The app should contain a variety of minigames to choose from for the user to install.
+* Allow easy installation and deletion of minigames using this app.
+* This app would be helpful for users who either have no minigames and want to play some, or a lot of minigames and feel troubled managing them on mobile.
+
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Jonason Wu (jw5911): [Github Profile](https://github.com/JonasonWu)
 
 ## Stakeholders
 
