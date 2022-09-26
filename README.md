@@ -13,6 +13,9 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Jonason Wu (jw5911): [Github Profile](https://github.com/JonasonWu)
+- Sagynbek Talgatuly (st4121): [Github Profile](https://github.com/sagynbek001)
+- Victoria Zhang (rz1424): [Github Profile](https://github.com/Ruixi-Zhang)
+- James Liu (sl8052): [Github Profile](https://github.com/liushuchen2025)
 
 ## Stakeholders
 
