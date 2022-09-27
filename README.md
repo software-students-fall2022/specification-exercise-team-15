@@ -21,7 +21,37 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+- We interviewed a student majoring in game design. On his free time, he spend a lot of time playing mobile games. 
+- We asked him the following questions during the interview:
+  - Where do your go to download mobile games?
+
+  - Where do you get your games recommendations?
+
+  - What is your opinion on the app stores game section. Do you find it useful?
+
+  - Do you want to know more about your game playing habit? 
+  - If a game recommendation app can quickly redirect to games, would you find this functionality helpful?
+
+- Based on his responses, we concluded the following problems and goals. 
+  - 4 problems/frustrations
+
+    - The current app store have can’t show download history for games, nor is there a place that shows and organize the games they downloads.
+  
+    - The game discovery session for app store is not very useful. Popular games are occupying the discovery page. There lacks filters and categegory selection. It is hard to find new games to play.
+  
+    - The games in the app stores aren’t labeled well. It is hard to find similar games based on labels and category.
+
+    - It is hard to keep track of game playing habit and schedules. The only way is to manually go to the screen time section in settings, which is a tedious process.
+
+  - 4 goals
+
+    - The user would like a place that can collectively shows and manage all of the downloaded games and download history.
+  
+    - The user wants a personalize game discovery page that contains all kinds of game list based on category and support game filtering.
+  
+    - The user wants each game contain clear labels (for example: action, card, minigames) and clear description. It would be better if there is a comment section for each game.
+  
+    - The user wants a place that shows all of his game playing habit (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his/her gaming habit better and better schedule gaming time.
 
 ## Product Vision Statement
 
