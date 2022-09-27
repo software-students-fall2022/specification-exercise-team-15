@@ -9,7 +9,7 @@ A little exercise to get started with the specification phase of the software de
 * The app should contain a variety of minigames to choose from for the user to install.
 * Allow easy removal of minigames that are installed using this mobile app.
 * The downloaded minigame could either be played inside the mobile app, outside the mobile app (like a regular game app on the mobile phone), or both.
-* There should be a comment section for each minigame that the mobile app features, where users can see and give comments on minigames.
+* There should be a rating section for each minigame that the mobile app features, where users can see and give ratings on minigames.
 * This app would be helpful for users who either have no minigames and want to play some, or a lot of minigames and want an app to manage their minigames.
 
 ## Team members
@@ -30,28 +30,29 @@ A little exercise to get started with the specification phase of the software de
   - What is your opinion on the app stores game section. Do you find it useful? Why?
 
   - Do you want to know more about your game playing habit? 
+
   - If a game recommendation app can quickly redirect to game or the app store, would you find this functionality helpful?
 
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
 
-    - The current app store have can’t show download history for games, nor is there a place that shows and organize the games they downloads.
+    - The current app store does not have a download history for games. There is no place that shows and organize the games that users download.
   
-    - The game discovery session for app store is not very useful. Popular games are occupying the discovery page. There lacks filters and categegory selection. It is hard to find new games to play.
+    - The game discovery session for app store is not very useful. Popular games are occupying the discovery page. There lacks filters and categorical selection. It is hard to find new games to play.
   
-    - The games in the app stores aren’t labeled well. It is hard to find similar games based on labels and category.
+    - The games in the app stores are not labeled well. It is hard to find similar games based on labels and category.
 
-    - It is hard to keep track of game playing habit and schedules. The only way is to manually go to the screen time section in settings, which is a tedious process.
+    - It is hard to keep track of game playing habit and schedules. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
 
   - 4 goals
 
     - The user would like a place that can collectively shows and manage all of the downloaded games and download history.
   
-    - The user wants a personalize game discovery page that contains all kinds of game list based on category and support game filtering.
+    - The user wants a personalized game discovery page that contains all kinds of games, allows sorting games by category, and support game filtering.
   
-    - The user wants each game to contain clear labels (for example: action, card, minigames) and  description. It would be better if there is a comment section for each game.
+    - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
   
-    - The user wants a place that shows all of his game playing habit (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his/her gaming habit better and better schedule gaming time.
+    - The user wants a place that shows all of his game playing habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his/her gaming habit better and schedule gaming times easier.
 
 ## Product Vision Statement
 
