@@ -3,14 +3,15 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## [Ideation](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit) Main Points
+## Ideation Main Points
 
-* We want to create a mobile app that can manage minigames for users.
-* The app should contain a variety of minigames to choose from for the user to install.
-* Allow easy removal of minigames that are installed using this mobile app.
-* The downloaded minigame could either be played inside the mobile app, outside the mobile app (like a regular game app on the mobile phone), or both.
-* There should be a rating section for each minigame that the mobile app features, where users can see and give ratings on minigames.
-* This app would be helpful for users who either have no minigames and want to play some, or a lot of minigames and want an app to manage their minigames.
+* We want to create a mobile app that can manage games for users.
+* The app should contain a variety of games to choose from for the user to install.
+* Allow easy removal of games that are installed using this mobile app.
+* The downloaded game could either be played inside the mobile app, outside the mobile app (like a regular game app on the mobile phone), or both.
+* There should be a rating section for each game that the mobile app features, where users can see and give ratings on games.
+* This app would be helpful for users who either have no games and want to play some, or a lot of games and want an app to manage their games.
+* [Additional Details of Original Idea](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit)
 
 ## Team members
 
