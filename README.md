@@ -58,6 +58,22 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
+### User Stories
+1.  M   As a player I want to sign up, so I can start using the application.
+2.  M   As a player I want to search mini games, so I can play the game I want to.
+3.  L   As a player I want to have my games sorted according to my preferences, so that I don't waste time searching.
+4.  S   As a player I want to see my profile, so that I can track my playing history.
+5.  S   As a player I want to see my profile, so that I can track my performance.
+6.  S   As a player I want to save my games, so I can play offline.
+7.  S   As a player I want to play games without ads, so that I am not distracted in the middle of a game.
+8.  S   As a player I want to have games categorized, so that I can easily find the game I want.
+9.  S   As a player I want to know how many hours I played, so that I don't play too much.
+10. L   As a player I want to play the mini games inside of one app, so that they are organized and easier to manage.
+11. S   As a game developer I want to see the statistics of my games, so that I can improve them.
+12. M   As a game developer I want to see the feedback from players, so I can find bugs and fix them.
+13. M   As a game developer I want to post my games, so that I can sell them.
+14. M   As a game developer I want to post my games, so that they are played by players.
+15. L   As a game developer I want to have my game featured in the search, so that I have more sells.
 
 ## Activity Diagrams
 
