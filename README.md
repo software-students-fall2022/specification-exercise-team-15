@@ -61,8 +61,35 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 
 ## User Requirements
 
-https://www.figma.com/file/cKdM8lauiNa0QfoSGWSlsx/Untitled?node-id=0%3A3
+### User Stories
+
+1.  As a player, I want to sign up, so that I can start using the app.
+2.  As a player, I want to search games, so that I can install games I want to play.
+3.  As a player, I want to be able to delete games I don't like, so that I don't see them.
+4.  As a player, I want to know how many hours I played, so that I don't play too much.
+5.  As a player, I want to track my performance, so that I can feel a sense of accomplishment.
+6.  As a player, I want to be able to play games offline, so I can play anytime and anywhere.
+7.  As a player, I want to play games without ads, so that I do not get distracted.
+8.  As a player, I want to have games categorized, so that I can find games easier.
+9.  As a player, I want to see comments and ratings on games, so that I can choose the right games.
+10. As a player, I want to share my playing habits with friends, so that we can play together.
+
+---------------------------
+
+### Optional User Stories
+
+1. As a player, I want to be able to see my download history, so I can recall when I downloaded the game.
+2. As a player, I want to play the games inside of one app, so that they are organized and easier to manage.
+3. As a game developer, I want to see the statistics of my games, so that I can improve them.
+4. As a game developer, I want to see the feedback from players, so I can see how successful my game is.
+5. As a game developer, I want to post my games, so that I can sell them.
+6. As a game developer, I want to post my games, so that they are played by players.
+7. As a game developer, I want to have my game featured in the search, so that I have more sales.
+8. As a player, I want to have my games sorted according to my preferences, so that I don't waste time searching.
 
 ## Activity Diagrams
+
+=======
+https://www.figma.com/file/cKdM8lauiNa0QfoSGWSlsx/Untitled?node-id=0%3A3
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
