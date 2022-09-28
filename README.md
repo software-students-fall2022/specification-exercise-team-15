@@ -53,7 +53,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A personalized mobile game finder app that provides a play-stats dashboard and quick launch
 
 ## User Requirements
 
