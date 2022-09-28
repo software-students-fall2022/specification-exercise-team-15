@@ -82,6 +82,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 6. As a game developer, I want to post my games, so that they are played by players.
 7. As a game developer, I want to have my game featured in the search, so that I have more sales.
 8. As a player, I want to have my games sorted according to my preferences, so that I don't waste time searching.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
