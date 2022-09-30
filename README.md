@@ -13,12 +13,16 @@ A little exercise to get started with the specification phase of the software de
 * This app would be helpful for users who either have no games and want to play some, or a lot of games and want an app to manage their games.
 * [Additional Details of Original Idea](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit)
 
+---
+
 ## Team members
 
 - Jonason Wu (jw5911): [Github Profile](https://github.com/JonasonWu)
 - Sagynbek Talgatuly (st4121): [Github Profile](https://github.com/sagynbek001)
 - Victoria Zhang (rz1424): [Github Profile](https://github.com/Ruixi-Zhang)
 - James Liu (sl8052): [Github Profile](https://github.com/liushuchen2025)
+
+---
 
 ## Stakeholders
 
@@ -55,9 +59,13 @@ A little exercise to get started with the specification phase of the software de
   
     - The user wants a place that shows all of his game playing habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his/her gaming habit better and schedule gaming times easier.
 
+---
+
 ## Product Vision Statement
 
 A personalized mobile game finder app that provides a play-stats dashboard and quick launch
+
+---
 
 ## User Requirements
 
@@ -74,8 +82,6 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 9.  As a player, I want to see comments and ratings on games, so that I can choose the right games.
 10. As a player, I want to share my playing habits with friends, so that we can play together.
 
----------------------------
-
 ### Optional User Stories
 
 1. As a player, I want to be able to see my download history, so I can recall when I downloaded the game.
@@ -87,9 +93,23 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 7. As a game developer, I want to have my game featured in the search, so that I have more sales.
 8. As a player, I want to have my games sorted according to my preferences, so that I don't waste time searching.
 
-## Activity Diagrams
+---
 
-=======
-https://www.figma.com/file/cKdM8lauiNa0QfoSGWSlsx/Untitled?node-id=0%3A3
+## UML Activity Diagrams
+
+1. User Story: As a player, I want to sign up, so that I can start using the app.
+
+![Activity Diagram for User Story 1](ActivityDiagrams/UserStory1.png)
+
+2. User Story: As a player, I want to search games, so that I can install games I want to play.
+
+![Activity Diagram for User Story 2](ActivityDiagrams/UserStory2.png)
+
+---
+
+
+
+
+Sample link: https://www.figma.com/file/cKdM8lauiNa0QfoSGWSlsx/Untitled?node-id=0%3A3
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
