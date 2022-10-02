@@ -71,8 +71,17 @@ A personalized mobile game finder app that provides a player statistics dashboar
 
 ![Activity Diagram for User Story 2](ActivityDiagrams/UserStory2.png)
 
+## Wireframe
+Note: click on the image to view it in figma for clearer representation.
+<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
+
+## Clickable Prototype
+
+Click [here](https://www.figma.com/proto/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=55%3A86&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A86&show-proto-sidebar=1) to view our clickable prototype.
+
 ---
 
 ## Miscellaneous
 
 * See this [google doc](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit) for details on the Ideation stage and other optional user stories that would be nice to have for the mobile app.
+
