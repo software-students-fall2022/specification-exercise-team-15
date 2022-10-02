@@ -11,7 +11,7 @@
 
 ## Stakeholders
 
-- We interviewed, _____,  a student majoring in game design. He spends a lot of time playing mobile games in his free time. 
+- We interviewed, Tim Chen,  a student majoring in game design. He spends a lot of time playing mobile games in his free time. 
 - We asked him the following questions during the interview:
   - Where would you go to download mobile games?
 
