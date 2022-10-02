@@ -9,8 +9,6 @@
 - Victoria Zhang (rz1424): [Github Profile](https://github.com/Ruixi-Zhang)
 - James Liu (sl8052): [Github Profile](https://github.com/liushuchen2025)
 
----
-
 ## Stakeholders
 
 - We interviewed, _____,  a student majoring in game design. He spends a lot of time playing mobile games in his free time. 
@@ -46,17 +44,11 @@
   
     - The user wants a place that shows all of his game playing habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
----
-
 ## Product Vision Statement
 
-A personalized mobile game finder app that provides a play-stats dashboard and quick launch.
-
----
+A personalized mobile game finder app that provides a player statistics dashboard and shortcut launch for games.
 
 ## User Requirements
-
-### User Stories
 
 1.  As a player, I want to sign up, so that I can start using the app.
 2.  As a player, I want to search games, so that I can install games I want to play.
@@ -68,8 +60,6 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 8.  As a player, I want to have games categorized, so that I can find games easier.
 9.  As a player, I want to see comments and ratings on games, so that I can choose the right games.
 10. As a player, I want to share my playing habits with friends, so that we can play together.
-
----
 
 ## UML Activity Diagrams
 
