@@ -107,9 +107,11 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 
 ---
 
+## Wireframe
+Note: click on the image to view it in figma for clearer representation.
+<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./Wireframe/WireframeGraph.png"/></a>
 
+## Clickable Prototype
 
+Click [here](https://www.figma.com/proto/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=55%3A86&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A86&show-proto-sidebar=1) to view our clickable prototype.
 
-Sample link: https://www.figma.com/file/cKdM8lauiNa0QfoSGWSlsx/Untitled?node-id=0%3A3
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
