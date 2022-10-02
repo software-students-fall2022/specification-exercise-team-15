@@ -109,7 +109,7 @@ A personalized mobile game finder app that provides a play-stats dashboard and q
 
 ## Wireframe
 Note: click on the image to view it in figma for clearer representation.
-<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./Wireframe/WireframeGraph.png"/></a>
+<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
 
