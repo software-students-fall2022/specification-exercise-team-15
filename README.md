@@ -17,17 +17,17 @@
 
   - Where do you get your game recommendations?
 
+  - Do you find it hard to manage the games apps on your homepage? 
+
   - What is your opinion on the app store's game section. Do you find it useful? Why?
 
   - Do you want to know more about your game playing habit? 
-
-  - If a game recommendation app can quickly redirect you to the game or the app store, would you find this functionality helpful?
-
+  
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
 
-    - The current app store does not have a download history specifically for games. There is no place that shows and organizes the games that users download.
-  
+    - There are too many games on his phone. It is hard to manage them all.
+    
     - The game discovery section for the app store is not very useful. Popular games are occupying the discovery page. There is a lack of filters and categories. It is hard to find new games to play.
   
     - The games in the app store are not labeled well. It is hard to find similar games based on labels and categories.
@@ -36,7 +36,7 @@
 
   - 4 goals
 
-    - The user would like a place that can collectively shows and manage all of the downloaded games and download history.
+    - The user would like to play, download, and manage all games in one app.
   
     - The user wants a personalized game discovery page that contain all kinds of games, allow sorting games by category, and support game filtering.
   
@@ -72,7 +72,7 @@ A personalized mobile game finder app that provides a player statistics dashboar
 ![Activity Diagram for User Story 2](ActivityDiagrams/UserStory2.png)
 
 ## Wireframe
-Note: click on the image to view it in figma for clearer representation.
+Note: click on the image to view it in figma for clearer representation. Also, the blue lines just shows the activity flow. It is not a part of the wireframe design.
 <a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
