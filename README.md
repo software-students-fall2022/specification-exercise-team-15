@@ -17,32 +17,32 @@
 
   - Where do you get your game recommendations?
 
+  - Do you find it hard to manage the games apps on your homepage? 
+
   - What is your opinion on the app store's game section. Do you find it useful? Why?
 
-  - Do you want to know more about your game playing habit? 
-
-  - If a game recommendation app can quickly redirect you to the game or the app store, would you find this functionality helpful?
-
+  - Do you want to know more about your game playing habits? 
+  
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
 
-    - The current app store does not have a download history specifically for games. There is no place that shows and organizes the games that users download.
-  
+    - There are too many games on his phone. It is hard to manage them all.
+    
     - The game discovery section for the app store is not very useful. Popular games are occupying the discovery page. There is a lack of filters and categories. It is hard to find new games to play.
   
     - The games in the app store are not labeled well. It is hard to find similar games based on labels and categories.
 
-    - It is hard to keep track of game playing habits and schedules. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
+    - It is hard to keep track of game playing history. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
 
   - 4 goals
 
-    - The user would like a place that can collectively shows and manage all of the downloaded games and download history.
+    - The user would like to play, download, and manage all games in one app.
   
     - The user wants a personalized game discovery page that contain all kinds of games, allow sorting games by category, and support game filtering.
   
     - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
   
-    - The user wants a place that shows all of his game playing habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
+    - The user wants a place that shows all of his game playing history (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
 ## Product Vision Statement
 
@@ -72,8 +72,10 @@ A personalized mobile game finder app that provides a player statistics dashboar
 ![Activity Diagram for User Story 2](ActivityDiagrams/UserStory2.png)
 
 ## Wireframe
-Note: click on the image to view it in figma for clearer representation.
-<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
+Note: Click on the image to view it in figma for clearer representation.
+
+Note: The blue lines just show the activity flow. It is not a part of the wireframe design.
+<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97" target="_blank"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
 
