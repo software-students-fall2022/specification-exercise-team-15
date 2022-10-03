@@ -14,34 +14,20 @@
 - We interviewed, Tim Chen,  a student majoring in game design. He spends a lot of time playing mobile games in his free time. 
 - We asked him the following questions during the interview:
   - Where would you go to download mobile games?
-
   - Where do you get your game recommendations?
-
   - Do you find it hard to manage the games apps on your homepage? 
-
   - What is your opinion on the app store's game section. Do you find it useful? Why?
-
   - Do you want to know more about your game playing habits? 
-  
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
-
     - There are too many games on his phone. It is hard to manage them all.
-    
     - The game discovery section for the app store is not very useful. Popular games are occupying the discovery page. There is a lack of filters and categories. It is hard to find new games to play.
-  
     - The games in the app store are not labeled well. It is hard to find similar games based on labels and categories.
-
     - It is hard to keep track of game playing history. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
-
   - 4 goals
-
     - The user would like to play, download, and manage all games in one app.
-  
-    - The user wants a personalized game discovery page that contain all kinds of games, allow sorting games by category, and support game filtering.
-  
+    - The user wants a personalized game discovery page that contain all kinds of games, allow sorting games by category, and support game filtering.  
     - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
-  
     - The user wants a place that shows all of his game playing history (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
 ## Product Vision Statement
@@ -60,6 +46,8 @@ A personalized mobile game finder app that provides a player statistics dashboar
 8.  As a player, I want to have games categorized, so that I can find games easier.
 9.  As a player, I want to see comments and ratings on games, so that I can choose the right games.
 10. As a player, I want to share my playing habits with friends, so that we can play together.
+11. As a player, I want to be able to filter while searching, so that I can find the game faster.
+12. As a player, I want to play my games in one app, so that they are organized.
 
 ## UML Activity Diagrams
 
@@ -75,6 +63,7 @@ A personalized mobile game finder app that provides a player statistics dashboar
 Note: Click on the image to view it in figma for clearer representation.
 
 Note: The blue lines just show the activity flow. It is not a part of the wireframe design.
+
 <a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
