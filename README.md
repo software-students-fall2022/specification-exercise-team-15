@@ -11,13 +11,7 @@
 
 ## Stakeholders
 
-- We interviewed, Tim Chen,  a student majoring in game design. He spends a lot of time playing mobile games in his free time. 
-- We asked him the following questions during the interview:
-  - Where would you go to download mobile games?
-  - Where do you get your game recommendations?
-  - Do you find it hard to manage the games apps on your homepage? 
-  - What is your opinion on the app store's game section. Do you find it useful? Why?
-  - Do you want to know more about your game playing habits? 
+- End User Interview: We interviewed, Tim Chen,  a student majoring in game design. He spends a lot of time playing mobile games in his free time.
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
     - There are too many games on his phone. It is hard to manage them all.
@@ -30,25 +24,16 @@
     - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
     - The user wants a place that shows all of his game playing history (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
-- For client interview, we had a chance to interview Liandun (Jackson) Gao, the founder and currently the excutive director of iDreamSky. iDreamSky is a video game publisher and distributer based in Shanghai, China. 
+- Client interview: we had a chance to interview Liandun (Jackson) Gao, the founder and currently the excutive director of iDreamSky. iDreamSky is a video game publisher and distributer based in Shanghai, China. 
   - 4 problems/frustrations
-
     - Doing a video game publisher bussiness needs exposure to both gamers and developers. It means a lot of resources and time.
-
     - They partner with video game developers, and the developers want to know more about who's playing their game, so that they can create content that their target audience like.
-
     - Oversea publication is not effective. Mainly they do youtube ads etc. but it is very expensive.
-
     - They want to connect with more talented game developers, but most of the time they are hard to find.
-
   - 4 goals
-
     - The client wants a platform that can reach to both gamers and game developers.
-
     - Knowing what gamers want can be beneficial to create better content.
-
     - The client wants a cheaper way to let people know their games.
-
     - The client wants a platform to explore talented developers.
 
 ## Product Vision Statement
