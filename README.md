@@ -32,7 +32,7 @@
   
     - The games in the app store are not labeled well. It is hard to find similar games based on labels and categories.
 
-    - It is hard to keep track of game playing habits and schedules. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
+    - It is hard to keep track of game playing history and habits. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
 
   - 4 goals
 
@@ -42,7 +42,7 @@
   
     - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
   
-    - The user wants a place that shows all of his game playing habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
+    - The user wants a place that shows all of his game playing history and habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
 ## Product Vision Statement
 
@@ -72,7 +72,7 @@ A personalized mobile game finder app that provides a player statistics dashboar
 ![Activity Diagram for User Story 2](ActivityDiagrams/UserStory2.png)
 
 ## Wireframe
-Note: click on the image to view it in figma for clearer representation. Also, the blue lines just shows the activity flow. It is not a part of the wireframe design.
+Note: click on the image to view it in figma for clearer representation. Also, the blue lines just show the activity flow. It is not a part of the wireframe design.
 <a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
