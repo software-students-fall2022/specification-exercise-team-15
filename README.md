@@ -63,7 +63,6 @@ A personalized mobile game finder app that provides a player statistics dashboar
 
 ## Wireframe
 Note: Click on the image to view it in figma for clearer representation.
-
 Note: The blue lines just show the activity flow. It is not a part of the wireframe design.
 <a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97"><img src="./WireFrame/WireframeGraph.png"/></a>
 
