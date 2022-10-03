@@ -21,7 +21,7 @@
 
   - What is your opinion on the app store's game section. Do you find it useful? Why?
 
-  - Do you want to know more about your game playing habit? 
+  - Do you want to know more about your game playing habits? 
   
 - Based on his responses, we concluded the following problems and goals. 
   - 4 problems/frustrations
