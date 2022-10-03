@@ -32,7 +32,7 @@
   
     - The games in the app store are not labeled well. It is hard to find similar games based on labels and categories.
 
-    - It is hard to keep track of game playing history and habits. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
+    - It is hard to keep track of game playing history. The only way is to go to the screen time section in settings, but the screen time section also contains the screen times of non-game-related apps.
 
   - 4 goals
 
@@ -42,7 +42,7 @@
   
     - The user wants each game to contain clear labels (for example: action, card, simulation, etc.) and a description. It would be better if there is a comment section for each game.
   
-    - The user wants a place that shows all of his game playing history and habits (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
+    - The user wants a place that shows all of his game playing history (information collected and visualized from screen time). It would be better if such information can be shown to his friend so that his friend can know his or her gaming habit better and schedule gaming times easier.
 
 ## Product Vision Statement
 
