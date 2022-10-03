@@ -75,15 +75,15 @@ A personalized mobile game finder app that provides a player statistics dashboar
 Note: Click on the image to view it in figma for clearer representation.
 
 Note: The blue lines just show the activity flow. It is not a part of the wireframe design.
-<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97" target="_blank"><img src="./WireFrame/WireframeGraph.png"/></a>
+<a href="https://www.figma.com/file/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=123%3A97" target="_blank" rel="noopener"><img src="./WireFrame/WireframeGraph.png"/></a>
 
 ## Clickable Prototype
 
-Click [here](https://www.figma.com/proto/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=55%3A86&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A86&show-proto-sidebar=1) to view our clickable prototype.
+Click ![here](https://www.figma.com/proto/RVoAOHxtBruQtTpuhqTUZm/Wireframes?node-id=55%3A86&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A86&show-proto-sidebar=1) to view our clickable prototype.
 
 ---
 
 ## Miscellaneous
 
-* See this [google doc](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit) for details on the Ideation stage and other optional user stories that would be nice to have for the mobile app.
+* See this ![google doc](https://docs.google.com/document/d/1uuLf8-Hde8k2mycQzfeQlwOh2JYok_Nh9vkbHjUwj-4/edit) for details on the Ideation stage and other optional user stories that would be nice to have for the mobile app.
 
